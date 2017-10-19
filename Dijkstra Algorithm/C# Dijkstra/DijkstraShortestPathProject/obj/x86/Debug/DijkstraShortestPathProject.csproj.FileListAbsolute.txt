@@ -1,0 +1,5 @@
+C:\Baby Programmer\Mr Kareem Esa-Oke\Dijkstra Algorithm\C# Dijkstra\DijkstraShortestPathProject\bin\Debug\DijkstraShortestPathProject.exe
+C:\Baby Programmer\Mr Kareem Esa-Oke\Dijkstra Algorithm\C# Dijkstra\DijkstraShortestPathProject\bin\Debug\DijkstraShortestPathProject.pdb
+C:\Baby Programmer\Mr Kareem Esa-Oke\Dijkstra Algorithm\C# Dijkstra\DijkstraShortestPathProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Baby Programmer\Mr Kareem Esa-Oke\Dijkstra Algorithm\C# Dijkstra\DijkstraShortestPathProject\obj\x86\Debug\DijkstraShortestPathProject.exe
+C:\Baby Programmer\Mr Kareem Esa-Oke\Dijkstra Algorithm\C# Dijkstra\DijkstraShortestPathProject\obj\x86\Debug\DijkstraShortestPathProject.pdb
